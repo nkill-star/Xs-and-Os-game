@@ -22,6 +22,10 @@ This game was developed while following a Udemy course, applying the learned con
 
 ✅ Detects win or draw conditions
 
-🎥 Gameplay Video  
+Screenshots
 
-[Watch the video](gameplay/gameplay.mp4)
+![Game Start](Screenshots/Screenshot%201.png)
+
+![Game over(Winning)](Screenshots/Screenshot%202.png)
+
+![Game over(Draw)](Screenshots/Screenshot%203.png)
