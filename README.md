@@ -4,7 +4,7 @@ A simple Tic-Tac-Toe (Xs and Os) game where two players take turns marking space
 
 📌 About the Project
 
-This game was developed while following a Udemy course, applying the learned concepts to build a fun and interactive project.
+This game was build using React while following a Udemy course, applying the learned concepts to build a fun and interactive project.
 
 🎮 How to Play
 
